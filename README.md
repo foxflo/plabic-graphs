@@ -1,2 +1,1 @@
-# plabic-graphs
-Code and research questions regarding plabic graphs, symmetric plabic graphs, and connections to tropical geometry and cluster algebras
+Code and research questions regarding plabic graphs, symmetric plabic graphs, and connections to tropical geometry and cluster algebras. Note that all of the code was written in Sage 9.x/Python 2.x and broke upon upgrading to Sage 10.x/Python 3.x. I have tried to fix most of it, but some errors may remain. The main code file is plabic.sage, which provides functionality for generating and manipulating plabic graphs. 
